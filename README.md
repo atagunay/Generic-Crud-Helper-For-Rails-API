@@ -13,3 +13,8 @@ class Api::V1::ExampleController < ApplicationController
 
 end
 ```
+
+### Notes
+If you want to paginate feature in index method you must add the 'jsom-pagination' gem in your gemfile.
+
+
